@@ -1,0 +1,186 @@
+Counts and Percentages for variables for Analyzing the relationship/Associaton between Social Acceptance and Self Esteem.
+Counts for You are well coordinated.
+1    2186
+2    3362
+3     644
+4     236
+5      35
+6      10
+8      31
+Name: H1PF29, dtype: int64
+Percentages for You are well coordinated.
+1    0.336101
+2    0.516913
+3    0.099016
+4    0.036285
+5    0.005381
+6    0.001538
+8    0.004766
+Name: H1PF29, dtype: float64
+Counts for You have a lot of good qualities.
+1    2428
+2    3511
+3     466
+4      65
+5       9
+6      10
+8      15
+Name: H1PF30, dtype: int64
+Percentages for You have a lot of good qualities.
+1    0.373309
+2    0.539822
+3    0.071648
+4    0.009994
+5    0.001384
+6    0.001538
+8    0.002306
+Name: H1PF30, dtype: float64
+Counts for You are physically fit.
+1    1708
+2    3043
+3    1160
+4     515
+5      54
+6       9
+8      15
+Name: H1PF31, dtype: int64
+Percentages for You are physically fit.
+1    0.262608
+2    0.467866
+3    0.178352
+4    0.079182
+5    0.008303
+6    0.001384
+8    0.002306
+Name: H1PF31, dtype: float64
+Counts for You have a lot to be proud of.
+1    2758
+2    3120
+3     460
+4     127
+5      14
+6       9
+8      16
+Name: H1PF32, dtype: int64
+Percentages for You have a lot to be proud of.
+1    0.424047
+2    0.479705
+3    0.070726
+4    0.019526
+5    0.002153
+6    0.001384
+8    0.002460
+Name: H1PF32, dtype: float64
+Counts for You like yourself just the way you are.
+1    2248
+2    2774
+3     868
+4     534
+5      58
+6      10
+8      12
+Name: H1PF33, dtype: int64
+Percentages for You like yourself just the way you are.
+1    0.345633
+2    0.426507
+3    0.133456
+4    0.082103
+5    0.008918
+6    0.001538
+8    0.001845
+Name: H1PF33, dtype: float64
+Counts for You feel like you are doing everything just about right.
+1    1196
+2    3275
+3    1367
+4     593
+5      51
+6      10
+8      12
+Name: H1PF34, dtype: int64
+Percentages for You feel like you are doing everything just about right.
+1    0.183887
+2    0.503536
+3    0.210178
+4    0.091175
+5    0.007841
+6    0.001538
+8    0.001845
+Name: H1PF34, dtype: float64
+Counts for You feel socially accepted.
+1    1857
+2    3674
+3     667
+4     241
+5      40
+6      10
+8      15
+Name: H1PF35, dtype: int64
+Percentages for You feel socially accepted.
+1    0.285517
+2    0.564883
+3    0.102552
+4    0.037054
+5    0.006150
+6    0.001538
+8    0.002306
+Name: H1PF35, dtype: float64
+Counts for You feel loved and wanted.
+1    2713
+2    3136
+3     495
+4     119
+5      19
+6      10
+8      12
+Name: H1PF36, dtype: int64
+Percentages for You feel loved and wanted.
+1    0.417128
+2    0.482165
+3    0.076107
+4    0.018296
+5    0.002921
+6    0.001538
+8    0.001845
+Name: H1PF36, dtype: float64
+Counts and Percentages for additional variables to study association between Adjustment in School and Self Esteem
+Counts for Getting along with other students.
+0    2496
+1    2856
+2     514
+3     295
+4     207
+6       4
+7     128
+8       4
+Name: H1ED18, dtype: int64
+Percentages for Getting along with other students.
+0    0.383764
+1    0.439114
+2    0.079028
+3    0.045357
+4    0.031827
+6    0.000615
+7    0.019680
+8    0.000615
+Name: H1ED18, dtype: float64
+Counts for You feel like you are part of your school.
+1    1677
+2    3039
+3     881
+4     564
+5     205
+6       4
+7     128
+8       6
+Name: H1ED20, dtype: int64
+Percentages for You feel like you are part of your school.
+1    0.257841
+2    0.467251
+3    0.135455
+4    0.086716
+5    0.031519
+6    0.000615
+7    0.019680
+8    0.000923
+Name: H1ED20, dtype: float64

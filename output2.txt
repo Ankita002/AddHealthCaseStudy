@@ -1,0 +1,114 @@
+Counts and Percentages for variables for Analyzing the relationship/Associaton between Social Acceptance and Self Esteem.
+Counts for You have a lot of good qualities.
+1.0    2428
+2.0    3511
+4.0      65
+5.0       9
+NaN     491
+Name: H1PF30, dtype: int64
+Percentages for You have a lot of good qualities.
+1.0    0.373309
+2.0    0.539822
+4.0    0.009994
+5.0    0.001384
+NaN    0.075492
+Name: H1PF30, dtype: float64
+Counts for You have a lot to be proud of.
+1.0    2758
+2.0    3120
+4.0     127
+5.0      14
+NaN     485
+Name: H1PF32, dtype: int64
+Percentages for You have a lot to be proud of.
+1.0    0.424047
+2.0    0.479705
+4.0    0.019526
+5.0    0.002153
+NaN    0.074569
+Name: H1PF32, dtype: float64
+Counts for You like yourself just the way you are.
+1.0    2248
+2.0    2774
+4.0     534
+5.0      58
+NaN     890
+Name: H1PF33, dtype: int64
+Percentages for You like yourself just the way you are.
+1.0    0.345633
+2.0    0.426507
+4.0    0.082103
+5.0    0.008918
+NaN    0.136839
+Name: H1PF33, dtype: float64
+Counts for You feel like you are doing everything just about right.
+1.0    1196
+2.0    3275
+4.0     593
+5.0      51
+NaN    1389
+Name: H1PF34, dtype: int64
+Percentages for You feel like you are doing everything just about right.
+1.0    0.183887
+2.0    0.503536
+4.0    0.091175
+5.0    0.007841
+NaN    0.213561
+Name: H1PF34, dtype: float64
+Counts for You feel socially accepted.
+1.0    1857
+2.0    3674
+4.0     241
+5.0      40
+NaN     692
+Name: H1PF35, dtype: int64
+Percentages for You feel socially accepted.
+1.0    0.285517
+2.0    0.564883
+4.0    0.037054
+5.0    0.006150
+NaN    0.106396
+Name: H1PF35, dtype: float64
+Counts for You feel loved and wanted.
+1.0    2713
+2.0    3136
+4.0     119
+5.0      19
+NaN     517
+Name: H1PF36, dtype: int64
+Percentages for You feel loved and wanted.
+1.0    0.417128
+2.0    0.482165
+4.0    0.018296
+5.0    0.002921
+NaN    0.079490
+Name: H1PF36, dtype: float64
+Counts and Percentages for additional variables to study association between Adjustment in School and Self Esteem
+Counts for Getting along with other students.
+0.0    2496
+1.0    2856
+2.0     514
+4.0     207
+NaN     431
+Name: H1ED18, dtype: int64
+Percentages for Getting along with other students.
+0.0    0.383764
+1.0    0.439114
+2.0    0.079028
+4.0    0.031827
+NaN    0.066267
+Name: H1ED18, dtype: float64
+Counts for You feel like you are part of your school.
+1.0    1677
+2.0    3039
+4.0     564
+5.0     205
+NaN    1019
+Name: H1ED20, dtype: int64
+Percentages for You feel like you are part of your school.
+1.0    0.257841
+2.0    0.467251
+4.0    0.086716
+5.0    0.031519
+NaN    0.156673
+Name: H1ED20, dtype: float64
